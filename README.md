@@ -18,7 +18,7 @@ sudo chmod +x abhishek.sh
 
 ---
 
-### 2. Deploy a Static Site with Nginx on Google Cloud Run using Artifact Registry ([check score link](https://www.skills.google/focuses/125091?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=58357376))
+### 2. Deploy a Static Site Using Traefik and Cloud Run ([check score link](https://www.skills.google/focuses/125089?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=58392832))
 if score is not 100/100 , open the site url from console
 
 ```bash
