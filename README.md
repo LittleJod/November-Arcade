@@ -8,6 +8,7 @@ just click the icon to copy the script.
 ## 🧩 Part 1
 
 ### 1. Deploy a Static Site with Nginx on Google Cloud Run using Artifact Registry ([check score link](https://www.skills.google/focuses/125091?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=58357356))
+if score is not 100/100 , open the site url from console
 
 ```bash
 curl -LO https://raw.githubusercontent.com/Itsabhishek7py/GoogleCloudSkillsboost/refs/heads/main/Deploy%20a%20Static%20Site%20Using%20Traefik%20and%20Cloud%20Run/abhishek.sh
@@ -18,6 +19,7 @@ sudo chmod +x abhishek.sh
 ---
 
 ### 2. Deploy a Static Site with Nginx on Google Cloud Run using Artifact Registry ([check score link](https://www.skills.google/focuses/125091?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=58357376))
+if score is not 100/100 , open the site url from console
 
 ```bash
 curl -LO raw.githubusercontent.com/andregregs/gcaf/refs/heads/main/Juli/Level%203/Deploy%20a%20Static%20Site%20with%20Nginx%20on%20Google%20Cloud%20Run%20using%20Artifact%20Registry/gem-cloud-run-nginx-website.sh
@@ -153,6 +155,7 @@ sudo chmod +x Abhi_Creating_Secrets.sh
 ---
 
 ### 8. Deploy a static site with Caddy V2 on Google Cloud Run ([check score link](https://www.skills.google/focuses/125090?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=58357060))
+if score is not 100/100 , open the site url from console
 ```bash
 curl -LO raw.githubusercontent.com/andregregs/gcaf/refs/heads/main/Juli/Level%203/Deploy%20a%20static%20site%20with%20Caddy%20V2%20on%20Google%20Cloud%20Run/gem-cloud-run-caddy-website.sh
 sudo chmod +x gem-cloud-run-caddy-website.sh
