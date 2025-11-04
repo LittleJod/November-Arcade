@@ -62,9 +62,9 @@ sudo chmod +x gem-artifact-registry-npm.sh
 ### 6. Create a Python Artifact Registry and Upload Code ([check score link](https://www.skills.google/focuses/125087?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=58357425))
 
 ```bash
-curl -LO raw.githubusercontent.com/andregregs/gcaf/refs/heads/main/Juli/Level%203/Create%20an%20NPM%20Artifact%20Registry%20and%20Upload%20Code/gem-artifact-registry-npm.sh
-sudo chmod +x gem-artifact-registry-npm.sh
-./gem-artifact-registry-npm.sh
+curl -LO raw.githubusercontent.com/andregregs/gcaf/refs/heads/main/Juli/Level%203/Create%20a%20Python%20Artifact%20Registry%20and%20Upload%20Code/gem-artifact-registry-python.sh
+sudo chmod +x gem-artifact-registry-python.sh
+./gem-artifact-registry-python.sh
 ```
 
 ---
