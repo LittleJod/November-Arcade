@@ -19,7 +19,7 @@ sudo chmod +x gem-cloud-run-nginx-website.sh
 ---
 
 ### 2. Deploy a Static Site Using Traefik and Cloud Run ([check score link](https://www.skills.google/focuses/125089?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=58392832))
-
+if score is not 100/100 , open the service url from cloud shell
 
 ```bash
 curl -LO raw.githubusercontent.com/andregregs/gcaf/refs/heads/main/Juli/Level%203/Deploy%20a%20Static%20Site%20Using%20Traefik%20and%20Cloud%20Run/gem-cloud-run-traefik-website.sh
