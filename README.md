@@ -39,7 +39,7 @@ sudo chmod +x gem-artifact-registry-container.sh
 
 ---
 
-### 4. Create a Go Artifact Registry and Upload Code ([check score link]())
+### 4. Create a Go Artifact Registry and Upload Code ([check score link](https://www.skills.google/focuses/125085?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=58394686))
 
 ```bash
 curl -LO https://raw.githubusercontent.com/Itsabhishek7py/GoogleCloudSkillsboost/refs/heads/main/Create%20a%20Go%20Artifact%20Registry%20and%20Upload%20Code/abhishek.sh
