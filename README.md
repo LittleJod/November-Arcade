@@ -11,9 +11,9 @@ just click the icon to copy the script.
 if score is not 100/100 , open the site url from console
 
 ```bash
-curl -LO https://raw.githubusercontent.com/Itsabhishek7py/GoogleCloudSkillsboost/refs/heads/main/Deploy%20a%20Static%20Site%20Using%20Traefik%20and%20Cloud%20Run/abhishek.sh
-sudo chmod +x abhishek.sh
-./abhishek.sh
+curl -LO raw.githubusercontent.com/andregregs/gcaf/refs/heads/main/Juli/Level%203/Deploy%20a%20Static%20Site%20with%20Nginx%20on%20Google%20Cloud%20Run%20using%20Artifact%20Registry/gem-cloud-run-nginx-website.sh
+sudo chmod +x gem-cloud-run-nginx-website.sh
+./gem-cloud-run-nginx-website.sh
 ```
 
 ---
@@ -22,9 +22,9 @@ sudo chmod +x abhishek.sh
 if score is not 100/100 , open the site url from console
 
 ```bash
-curl -LO raw.githubusercontent.com/andregregs/gcaf/refs/heads/main/Juli/Level%203/Deploy%20a%20Static%20Site%20with%20Nginx%20on%20Google%20Cloud%20Run%20using%20Artifact%20Registry/gem-cloud-run-nginx-website.sh
-sudo chmod +x gem-cloud-run-nginx-website.sh
-./gem-cloud-run-nginx-website.sh
+curl -LO raw.githubusercontent.com/andregregs/gcaf/refs/heads/main/Juli/Level%203/Deploy%20a%20Static%20Site%20Using%20Traefik%20and%20Cloud%20Run/gem-cloud-run-traefik-website.sh
+sudo chmod +x gem-cloud-run-traefik-website.sh
+./gem-cloud-run-traefik-website.sh
 ```
 
 ---
