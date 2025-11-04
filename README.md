@@ -1,4 +1,4 @@
-# 🎮 November Arcade Labs
+# 🎮 [November Arcade Labs](https://www.skills.google/games/6872)
 
 This file contains all lab automation scripts for **November Arcade**.
 just click the icon to copy the script.
